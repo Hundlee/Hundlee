@@ -23,7 +23,5 @@
 <img align="center" alt='react' style="margin-top: 5px" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img align="center" alt='tailwindcss' style="margin-top: 5px" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img align="center" alt='mongodb' style="margin-top: 5px" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-<img align="center" alt='express' style="margin-top: 5px" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
-
 
 </div> <br/>
