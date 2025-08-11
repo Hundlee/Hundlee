@@ -12,7 +12,7 @@
 
  
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,next,laravel,vite,tailwind,expressjs,mongodb,postgres,docker,firebase,git,github,vscode,jest,jquery,styledcomponents,postman,stackoverflow,aws,figma&perline=13)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,react,nodejs,next,laravel,vite,tailwind,expressjs,mongodb,postgres,docker,prisma,firebase,git,github,vscode,jest,jquery,styledcomponents,postman,stackoverflow,aws,figma&perline=13)](#)
 
 
 
