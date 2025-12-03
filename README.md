@@ -55,7 +55,7 @@
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Chart%20Increasing.png" alt="Chart" width="30" height="30" /> **GitHub Stats**
+## 📊 **GitHub Stats**
 
 <p align="center">
     <img src="https://bad-apple-github-readme.vercel.app/api?username=Hundlee&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff" alt="GitHub Stats"/>
