@@ -32,7 +32,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages**
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php&perline=6" alt="Programming Languages"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,py,php,java&perline=6" alt="Programming Languages"/>
 </p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> **Frameworks & Libraries**
